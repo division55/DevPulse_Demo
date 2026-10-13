@@ -1,0 +1,18 @@
+[
+  {
+    "full_name": "octocat/Hello-World",
+    "description": "My first repository on GitHub!",
+    "stargazers_count": 120,
+    "forks_count": 48,
+    "open_issues_count": 9,
+    "default_branch": "master"
+  },
+  {
+    "full_name": "pallets/flask",
+    "description": "A lightweight WSGI web application framework.",
+    "stargazers_count": 70000,
+    "forks_count": 16000,
+    "open_issues_count": 0,
+    "default_branch": "main"
+  }
+]

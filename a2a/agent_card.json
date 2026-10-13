@@ -1,0 +1,18 @@
+{
+  "name": "DevPulse Educational Demo",
+  "description": "A small GitHub repository information demonstration.",
+  "version": "0.1.0",
+  "skills": [
+    {
+      "id": "repository_info",
+      "name": "Repository information",
+      "description": "Return metadata for a public GitHub repository."
+    },
+    {
+      "id": "question_routing",
+      "name": "Question routing",
+      "description": "Classify a question into a basic specialist category."
+    }
+  ],
+  "note": "Descriptive example only; not served through an A2A protocol endpoint."
+}
